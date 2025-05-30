@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Airtel Fiber Dehradun</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; color: #333; }
+    header { background: #e70000; color: #fff; padding: 20px; text-align: center; }
+    .container { padding: 20px; max-width: 800px; margin: auto; }
+    .plan { background: #fff; padding: 15px; margin-bottom: 15px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    .plan h3 { margin-top: 0; color: #e70000; }
+    footer { text-align: center; padding: 20px; background: #222; color: #fff; }
+    .contact { font-size: 1.1em; margin-top: 20px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Airtel Xstream Fiber – Dehradun</h1>
+  <p>Fast Internet. Great Offers. Quick Installation!</p>
+</header>
+
+<div class="container">
+  <h2>Available Plans</h2>
+
+  <div class="plan">
+    <h3>₹499/month</h3>
+    <p>40 Mbps Speed<br>Unlimited Data + Calls</p>
+  </div>
+
+  <div class="plan">
+    <h3>₹799/month</h3>
+    <p>100 Mbps Speed<br>Unlimited Data + Calls</p>
+  </div>
+
+  <div class="plan">
+    <h3>₹999/month</h3>
+    <p>200 Mbps Speed<br>OTT Apps + Unlimited Data</p>
+  </div>
+
+  <div class="plan">
+    <h3>₹1498/month</h3>
+    <p>300 Mbps Speed<br>OTT Apps + Premium Support</p>
+  </div>
+
+  <div class="plan">
+    <h3>₹3999/month</h3>
+    <p>1 Gbps Speed<br>Unlimited Everything + VIP Service</p>
+  </div>
+
+  <div class="contact">
+    📞 Call or WhatsApp for installation: <strong>9058840834</strong><br>
+    📍 Available in: <strong>Dehradun & nearby areas</strong>
+  </div>
+</div>
+
+<footer>
+  &copy; 2025 Airtel Fiber Dehradun | Powered by @airtelxsteamefiber.dehradun
+</footer>
+
+</body>
+</html>
